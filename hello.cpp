@@ -5,7 +5,7 @@ using namespace std;
 
 
 int main()
-{/*
+{
 	// prints hello world
 	cout << "Hello World";
 
@@ -253,6 +253,6 @@ int main()
 	cout<<endl;
 	row=row+1;
 	}
-	*/
+	
 	return 0;		
 }
